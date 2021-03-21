@@ -4,3 +4,5 @@
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 ![ViewCount](https://views.whatilearened.today/views/github/dangxuanphuc/dangxuanphuc.svg?cache=remove)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dangxuanphuc&show_icons=true&locale=en&layout=compact" alt="dangxuanphuc" /></p>
